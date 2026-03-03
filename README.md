@@ -1,4 +1,3 @@
-#Hi, I'm Ravi 👋  
 <h1 align="center">Hi, I'm Ravi 👋</h1>
 
 # 💫 About Me:
