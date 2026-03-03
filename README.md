@@ -1,4 +1,4 @@
-# Hi, I'm Ravi 👋  
+#                                                       Hi, I'm Ravi 👋  
 
 # 💫 About Me:
 🔭 I’m currently working on  <br>- Strengthening Data Structures & Algorithms (Java)  <br>- Building AI/ML mini-projects  <br>- Improving problem-solving consistency  <br><br>👯 I’m looking to collaborate on  <br>- Beginner-friendly AI/ML projects  <br>- Open-source contributions in Python or Java  <br>- Real-world problem-solving projects  <br><br>🤝 I’m looking for help with  <br>- Advanced Machine Learning concepts  <br>- System Design basics  <br>- Writing production-level clean code  <br><br>🌱 I’m currently learning  <br>- Data Structures & Algorithms (Java)  <br>- Machine Learning fundamentals  <br>- Python for AI development  <br><br>💬 Ask me about  <br>- Java basics  <br>- DSA practice  <br>- Starting AIML as a beginner  <br><br>⚡ Fun fact  <br>- I treat debugging like solving a puzzle 🧩
